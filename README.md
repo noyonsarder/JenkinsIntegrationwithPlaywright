@@ -49,3 +49,11 @@ npm install && npx playwright install && npx playwright test
 
 - Click Save
 - Click Build Now to trigger the job
+
+
+**Allure Report in Jenkins**:
+![Screenshot (1001)](https://github.com/user-attachments/assets/e75d0309-d366-4670-afc8-88e8333ec45f)
+
+**Junit xml report**:
+![Screenshot (1002)](https://github.com/user-attachments/assets/fc93cf04-21b7-4629-b55d-869312738b08)
+
