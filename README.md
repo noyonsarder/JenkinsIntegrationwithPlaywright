@@ -1,4 +1,4 @@
-# Playwright_Integration_Jenkins
+# Jenkins Integration with Playwright
 
 **Steps to Set Up Playwright with Jenkins (Freestyle Project)**
 Open the Jenkins Server:
