@@ -1,14 +1,14 @@
-<testsuites id="" name="" tests="1" failures="0" skipped="0" errors="0" time="7.159478999999999">
-<testsuite name="blazeLogin.spec.js" timestamp="2025-02-20T14:22:31.875Z" hostname="chromium" tests="1" failures="0" skipped="0" time="6.262" errors="0">
-<testcase name="login to the test site" classname="blazeLogin.spec.js" time="6.262">
-<system-out>
-<![CDATA[Samsung galaxy s6
-Nokia lumia 1520
-Nexus 6
-Samsung galaxy s7
-Samsung galaxy s7
-]]>
-</system-out>
+<testsuites id="" name="" tests="4" failures="0" skipped="0" errors="0" time="7.619933999999999">
+<testsuite name="blazeLogin.spec.js" timestamp="2025-02-21T06:57:59.232Z" hostname="chromium" tests="2" failures="0" skipped="0" time="12.81" errors="0">
+<testcase name="Navigate to PDP" classname="blazeLogin.spec.js" time="6.085">
+</testcase>
+<testcase name="Failed Test Case" classname="blazeLogin.spec.js" time="6.725">
+</testcase>
+</testsuite>
+<testsuite name="example.spec.js" timestamp="2025-02-21T06:57:59.232Z" hostname="chromium" tests="2" failures="0" skipped="0" time="10.38" errors="0">
+<testcase name="has title" classname="example.spec.js" time="5.304">
+</testcase>
+<testcase name="get started link" classname="example.spec.js" time="5.076">
 </testcase>
 </testsuite>
 </testsuites>
