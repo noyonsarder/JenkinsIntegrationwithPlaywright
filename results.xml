@@ -1,0 +1,14 @@
+<testsuites id="" name="" tests="1" failures="0" skipped="0" errors="0" time="7.159478999999999">
+<testsuite name="blazeLogin.spec.js" timestamp="2025-02-20T14:22:31.875Z" hostname="chromium" tests="1" failures="0" skipped="0" time="6.262" errors="0">
+<testcase name="login to the test site" classname="blazeLogin.spec.js" time="6.262">
+<system-out>
+<![CDATA[Samsung galaxy s6
+Nokia lumia 1520
+Nexus 6
+Samsung galaxy s7
+Samsung galaxy s7
+]]>
+</system-out>
+</testcase>
+</testsuite>
+</testsuites>
